@@ -12,10 +12,9 @@ function App() {
         <a
           className="App-link"
           href="https://apps.apple.com/cn/app/zetta-ai-chat-ask-anything/id6476814767"
-          target="_blank"
           rel="zetta app download noreferrer"
         >
-          Explore Zetta
+          Explore Zetta 🚀
         </a>
       </header>
     </div>
