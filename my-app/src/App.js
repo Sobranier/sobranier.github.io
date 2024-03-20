@@ -1,21 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './logo.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <p className="front-title">
+          Your Best AI Assistant
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://apps.apple.com/cn/app/zetta-ai-chat-ask-anything/id6476814767"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="zetta app download noreferrer"
         >
-          Learn React
+          Explore Zetta
         </a>
       </header>
     </div>
